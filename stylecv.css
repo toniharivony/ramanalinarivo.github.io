@@ -1,0 +1,86 @@
+img{max-width: 10%;
+	height: auto; }
+
+.info {width: 15em;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+.info {
+    position: relative;
+  top: -240px;
+  left: 170px;
+}
+
+.metier{
+    position: relative;
+    top: -240px;
+    text-align: center;
+}
+
+.divers{
+    position: relative;
+    top: -240px;
+    text-align: center;
+}
+
+.COMPÉTENCES {border: 10px ridge rgb(0, 110, 112);
+    background-color: rgb(228, 228, 223);
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -240px;
+ }
+
+ .COMPÉTENCES h2{
+    text-align: center;
+ }
+.action{position: relative;
+    top: -240px;}
+
+.FORMATIONS{border: 10px ridge rgb(0, 110, 112);
+    background-color: rgb(228, 228, 223);
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -240px;
+}
+.FORMATIONS h2{
+    text-align: center;
+ }
+
+ .annee{
+    position: relative;
+    top: -240px;
+ }
+
+ .EXPÉRIENCE{border: 10px ridge rgb(0, 110, 112);
+    background-color: rgb(228, 228, 223);
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -240px;
+}
+.EXPÉRIENCE h2{
+    text-align: center;
+ }
+ .interets{border: 10px ridge rgb(0, 110, 112);
+    background-color: rgb(228, 228, 223);
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -240px;
+}
+.interets h2{
+    text-align: center;
+}
+.activités{
+    position: relative;
+    top: -240px;
+}
